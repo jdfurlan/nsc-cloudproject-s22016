@@ -1,0 +1,11 @@
+What have you completed since the last report?
+
+Worked on setting up a new Flask server to make test cases in the blob storage code
+
+What do you plan to complete by the next report?
+
+I hope to have some test cases completed
+
+What is getting in your way?
+
+Setting up the Flask server
