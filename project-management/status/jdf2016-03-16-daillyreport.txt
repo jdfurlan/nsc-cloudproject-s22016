@@ -1,0 +1,11 @@
+What have you completed since the last report?
+
+Begain working on developing a test framework which will display the get, post, put, and delete methods of our API
+
+What do you plan to complete by the next report?
+
+I've only completed GET, I will finish the rest of the methods.
+
+What is getting in your way?
+
+Sleep
